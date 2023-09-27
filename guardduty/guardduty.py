@@ -16,6 +16,7 @@ ACCOUNT_NAMES = {
     "NL - dev": "227102687118",
     "NL - jeff_lee": "772101405989",
     "NL - michael_pavlovsky": "847408358735",
+    "NL - razvan_draghici": "732667860842",
     "NL - lemmax_dev": "573354913153",
     "NL - lemmax_prod": "516595672765",
 }
